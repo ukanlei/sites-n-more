@@ -1,0 +1,5 @@
+img {
+    /* this ensures that img doesn't exceed the page width across mulitple screen size */
+    /* one easy way to make site responsive */
+    max-width: 100%;
+}
