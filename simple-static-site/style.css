@@ -5,6 +5,18 @@ body{
     background-color: black;
 }
 
+/* typography */
+body{
+    font-family: monospace;
+    line-height: 1.5;
+    color: white;
+}
+h1{
+    font-family: "Libre Bodoni";
+    color: black;
+    -webkit-text-stroke: 0.05rem white;
+}
+
 /* layout */
 img {
     /* this ensures that img doesn't exceed the page width across mulitple screen size */
