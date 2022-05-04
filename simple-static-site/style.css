@@ -1,3 +1,11 @@
+/* base */
+body{
+    padding-left: 1.87rem;
+    padding-right: 1.87rem;
+    background-color: black;
+}
+
+/* layout */
 img {
     /* this ensures that img doesn't exceed the page width across mulitple screen size */
     /* one easy way to make site responsive */
