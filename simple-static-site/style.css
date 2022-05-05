@@ -12,6 +12,7 @@ body{
     color: white;
 }
 h1{
+    font-size: 2.5em;
     font-family: "Libre Bodoni";
     color: black;
     -webkit-text-stroke: 0.05rem white;
@@ -24,6 +25,8 @@ a:hover{
 }
 
 /* componentss */
+
+
 img {
     /* this ensures that img doesn't exceed the page width across mulitple screen size */
     /* one easy way to make site responsive */
