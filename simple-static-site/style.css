@@ -16,8 +16,14 @@ h1{
     color: black;
     -webkit-text-stroke: 0.05rem white;
 }
+a{
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+}
 
-/* layout */
+/* componentss */
 img {
     /* this ensures that img doesn't exceed the page width across mulitple screen size */
     /* one easy way to make site responsive */
