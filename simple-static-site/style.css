@@ -7,7 +7,7 @@ body{
 
 /* typography */
 body{
-    font-family: monospace;
+    font-family: "Lucida Console","Courier New",monospace;
     line-height: 1.5;
     color: white;
 }
@@ -16,6 +16,9 @@ h1{
     font-family: "Libre Bodoni";
     color: black;
     -webkit-text-stroke: 0.05rem white; /* work only on certain browser that support webkit */
+}
+p{
+    font-size: 0.8rem;
 }
 a{
     color: white;
@@ -35,4 +38,12 @@ img {
 section{
     margin-bottom: 1.5rem;
 
+}
+
+footer{
+    margin-top: 3rem;
+    margin-bottom: 3.5rem;
+}
+.footer-heading{
+    border-bottom: solid 0.07rem white;
 }
