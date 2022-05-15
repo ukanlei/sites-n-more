@@ -1,9 +1,13 @@
-import './App.css';
+import "./App.css";
+import React from "react";
+import Heading from "./components/Heading";            
+import Images from "./components/Images";
 
-function App() {
-  return (
+const App = () => {
+    return (
     <div className="App">
-      
+      <Heading />
+      <Images />
     </div>
   );
 }
