@@ -1,10 +1,10 @@
 import React from "react";
 
-const Images = () => {
+const Slider = () => {
     return(
         <div className="image-container">
             <img />
         </div>
     )
 }
-export default Images;
+export default Slider;
