@@ -1,13 +1,13 @@
 import "./App.css";
 import React from "react";
 import Heading from "./components/Heading";            
-import Images from "./components/Images";
+import Slider from "./components/Slider";
 
 const App = () => {
     return (
     <div className="App">
       <Heading />
-      <Images />
+      <Slider />
     </div>
   );
 }
